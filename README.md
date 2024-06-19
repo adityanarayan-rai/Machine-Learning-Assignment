@@ -30,3 +30,4 @@ This repository includes the Python Assignments from the Machine Learning course
 - Calculate the error in the test set for both your best Ridge and KernelRidge model. Which is better?
 
 **Assignment 3:**
+This assignment was designed to give the students practical experience with a complete machine learning workflow, applying 10-fold cross-validation, and running classification models on a prepared dataset.
